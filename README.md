@@ -16,12 +16,8 @@ $ python3 setup.py sdist
 $ sudo pip3 install dist/baseball-cli-0.0.1.tar.gz
 ```
 
-```bash
-# TODO: PyPI 登録後であれば
-$ pip3 install baseball-cli
-```
-
 # Usage
+制約として baseball-cli ディレクトリでのみ動作します。
 
 ## Get baseball match result
 
